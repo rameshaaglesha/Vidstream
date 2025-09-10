@@ -7,11 +7,11 @@ export default function Home() {
   const videoData = [
   {
     id: "ABC",
-    title: "Video ABC",
-    description: "This is my local video named ABC.",
+    title: "RAJ RADADIYA",
+    description: "RAJ KI BAKCHODI",
     thumbnail: "/thumbnail.jpg", 
-    channel: "My Local Channel",
-    views: "120",
+    channel: "BROCODE BY RAJ",
+    views: "100",
     uploadedAt: "Dec 21, 2023",
     src: "/videos/ABC.mp4",
   },
